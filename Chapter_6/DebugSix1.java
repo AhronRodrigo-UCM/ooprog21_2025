@@ -7,7 +7,7 @@ public class DebugSix1 {
         double money = 0.01;
         int day = 1;
 
-        // FIX 1: Added missing semicolon at the end of this line
+        // FIX 1: Aded missing semicolon at the end of this line
         System.out.print("Enter number of days >> ");
         days = keyboard.nextInt();
 
@@ -27,4 +27,5 @@ public class DebugSix1 {
         }
     }
 }
+
 
